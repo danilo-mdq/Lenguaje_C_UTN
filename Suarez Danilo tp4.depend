@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1490115818 source:c:\users\yoga530\desktop\programacion\programacion1\danilo programas\suarez danilo tp4\pila.c
+	"pila.h"
+
+1490115818 c:\users\yoga530\desktop\programacion\programacion1\danilo programas\suarez danilo tp4\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1589246299 source:c:\users\yoga530\desktop\programacion\programacion1\danilo programas\suarez danilo tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<windows.h>
+
+1490115818 source:c:\users\yoga530\desktop\programacion\suarez danilo tp4\pila.c
+	"pila.h"
+
+1490115818 c:\users\yoga530\desktop\programacion\suarez danilo tp4\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1589503599 source:c:\users\yoga530\desktop\programacion\programacion1\suarez danilo tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<windows.h>
+
+1490115818 c:\users\yoga530\desktop\programacion\programacion1\suarez danilo tp4\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490115818 source:c:\users\yoga530\desktop\programacion\programacion1\suarez danilo tp4\pila.c
+	"pila.h"
+
